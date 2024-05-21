@@ -89,3 +89,9 @@ Now that we have our first command, ``/ping``, we'll move on to another concept:
 It consists in modifying the bot's activity, for example ``Play Need4Stek``.
 
 To do this we will use the documentation in the bot activity section, which can be found [here](https://discord.js.org/docs/packages/discord.js/14.15.2/ClientUser:Class#setPresence)
+
+## Step 4 : Catch reaction and roles
+
+We are now going to assign a role according to the reactions put on a specific message.
+
+To do that we are using this topics on stackoverflow [page](https://stackoverflow.com/questions/59069737/discord-js-trying-to-add-role-by-reacting-to-the-message)
