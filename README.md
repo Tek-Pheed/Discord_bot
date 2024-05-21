@@ -1,5 +1,7 @@
 # How to create discord bot in JS
 
+During this project we will create base discord bot in javascript.
+
 ## Requierements
 
 ### Install nodejs and npm
