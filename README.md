@@ -68,6 +68,12 @@ To obtain TOKEN, click on this link and create an application by following the s
 
 [Discord developper](https://discord.com/developers/applications)
 
+#### Invite your discord bot on your server
+
+replace in the following url ID by your client_id
+
+https://discord.com/oauth2/authorize?client_id=ID
+
 ## Step 2 : Basic command
 
 The bot has been created and can now be connected. Now we'll create a basic command.
