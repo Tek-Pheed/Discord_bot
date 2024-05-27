@@ -66,6 +66,8 @@ To obtain TOKEN, click on this link and create an application by following the s
 
 [Discord developper](https://discord.com/developers/applications)
 
+replace the line in the config.json with your own token
+
 #### Invite your discord bot on your server
 
 replace in the following url ID by your client_id
