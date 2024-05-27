@@ -54,14 +54,16 @@ npm i discord.js
 Create a file named ``index.js`` and add the following code to it
 
 ```js
-import { Client, GatewayIntentBits } from 'discord.js';
+const { Client, Events, GatewayIntentBits } = require("discord.js");
+const { token } = require("../config.json");
+
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login(TOKEN);
+client.login(token);
 ```
 
 To obtain TOKEN, click on this link and create an application by following the steps below.
