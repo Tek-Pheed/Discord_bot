@@ -176,3 +176,9 @@ To do this we will use the documentation in the bot activity section, which can 
 We are now going to assign a role according to the reactions put on a specific message.
 
 To do that we are using this topics on stackoverflow [page](https://stackoverflow.com/questions/59069737/discord-js-trying-to-add-role-by-reacting-to-the-message)
+
+## Step 5 : Imagine
+
+Now you have the base to create discord bot.
+
+Add new features on your bot !
