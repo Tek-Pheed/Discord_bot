@@ -68,6 +68,8 @@ To obtain TOKEN, click on this link and create an application by following the s
 
 replace the line in the config.json with your own token
 
+use ``npm run start`` to start the bot
+
 #### Invite your discord bot on your server
 
 replace in the following url ID by your client_id
