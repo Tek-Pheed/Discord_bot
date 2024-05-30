@@ -45,6 +45,8 @@ Download the LTS version on this [link](https://nodejs.org/en)
 
 download all this repository to get all necessary files
 
+use this command : ``npm i``
+
 ### Create file
 
 Create a file named ``index.js`` and add the following code to it
